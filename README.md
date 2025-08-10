@@ -17,7 +17,7 @@ I'm a data analyst with a passion for transforming raw data into meaningful insi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" alt="Machine Learning" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/10807/10807288.png" alt="Machine Learning" width="40" height="40" /> />
 </p>
 
 ---
