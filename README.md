@@ -53,6 +53,6 @@ I'm a data analyst with a passion for transforming raw data into meaningful insi
 
 ### 📫 Connect With Me On
 
-![Email](https://img.shields.io/badge/📧%20Email-abhishekmenon05@gmail.com-red?style=for-the-badge)  
+📧 Email: abhishekmenon05@gmail.com
 
 
