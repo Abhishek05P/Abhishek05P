@@ -9,13 +9,15 @@ I'm a data analyst with a passion for transforming raw data into meaningful insi
 
 ### 🧰 Skills and Languages 
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?logo=python&logoColor=white&style=flat)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white&style=flat)
+<p>
+  <img src="assets/python.svg" alt="Python" width="36" height="36" />&nbsp;
+  <img src="assets/sql.svg" alt="SQL" width="36" height="36" />&nbsp;
+  <img src="assets/powerbi.svg" alt="Power BI" width="36" height="36" />&nbsp;
+  <img src="assets/machinelearning.svg" alt="Machine Learning" width="36" height="36" />&nbsp;
+  <img src="assets/pandas.svg" alt="Pandas" width="36" height="36" />&nbsp;
+  <img src="assets/numpy.svg" alt="NumPy" width="36" height="36" />
+  <img src="assets/tensorflow.svg" alt="TensorFlow" width="36" height="36" />&nbsp />
+</p>
 
 ---
 
