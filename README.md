@@ -10,13 +10,14 @@ I'm a data analyst with a passion for transforming raw data into meaningful insi
 ### 🧰 Skills and Languages 
 
 <p>
-  <img src="assets/python.svg" alt="Python" width="36" height="36" />&nbsp;
-  <img src="assets/sql.svg" alt="SQL" width="36" height="36" />&nbsp;
-  <img src="assets/powerbi.svg" alt="Power BI" width="36" height="36" />&nbsp;
-  <img src="assets/machinelearning.svg" alt="Machine Learning" width="36" height="36" />&nbsp;
-  <img src="assets/pandas.svg" alt="Pandas" width="36" height="36" />&nbsp;
-  <img src="assets/numpy.svg" alt="NumPy" width="36" height="36" />
-  <img src="assets/tensorflow.svg" alt="TensorFlow" width="36" height="36" />&nbsp />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" alt="Machine Learning" width="40" height="40" />
 </p>
 
 ---
