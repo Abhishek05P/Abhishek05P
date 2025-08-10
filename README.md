@@ -33,7 +33,7 @@ I'm a data analyst with a passion for transforming raw data into meaningful insi
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
 
   <!-- Machine Learning -->
-  <img src="https://www.svgrepo.com/show/339328/machine-learning-01.svg" alt="Machine Learning" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/339328/machine-learning-01.svg" alt="Machine Learning" width="40" height="40"/>
 
   <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
