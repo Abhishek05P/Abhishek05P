@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abhishek 👋</h1>
----
 
-### 📊 About Me
+
+### 🔍 About Me
 
 I'm a data analyst with a passion for transforming raw data into meaningful insights that drive smarter decisions. I bring a strong foundation in **Data Cleaning**, **Exploratory Analysis**, and **Visualisation**, backed by hands-on experience in tools like **Python**, **SQL**,**Power BI**, and **Excel**. I enjoy digging into datasets to uncover patterns, trends and anomalies and I approach every project with a problem-solving mindset and analytical precision. I'm constantly exploring new techniques, from machine learning to advanced BI dashboards, to expand my analytical toolkit and deliver even deeper value. 
 
